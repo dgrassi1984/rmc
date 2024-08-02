@@ -41,7 +41,10 @@ LINE_HEIGHTS = {
     # 71, rather than 70 or 72. Note however that it does interact a bit with
     # the initial text y-coordinate below.
     si.ParagraphStyle.PLAIN: 71,
+    si.ParagraphStyle.BASIC: 71,
     si.ParagraphStyle.BULLET: 35,
+    si.ParagraphStyle.BULLET2: 35,
+    si.ParagraphStyle.CHECKBOX: 35,
     si.ParagraphStyle.BOLD: 70,
     si.ParagraphStyle.HEADING: 150,
 
